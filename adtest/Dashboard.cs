@@ -1,6 +1,4 @@
-using Microsoft.VisualBasic.ApplicationServices;
 using System.DirectoryServices;
-using System.Drawing;
 
 namespace adtest
 {
